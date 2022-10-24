@@ -1,1 +1,1 @@
-# phpmyadminzeus2
+# phpmyadminzeus
